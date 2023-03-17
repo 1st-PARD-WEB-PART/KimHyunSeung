@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          22000202 김현승, 남들보다 하나만 더 하자
+          22000202 김현승, 남들보다 하나만 더 
         </p>
         <a
           className="App-link"
