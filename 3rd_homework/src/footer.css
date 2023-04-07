@@ -1,0 +1,23 @@
+.footer{
+    padding : 14rem 0 9rem 0;
+    height: 0px;
+    margin-bottom : 0px;
+    background-color: white;
+    bottom: 0;
+}
+.contents{
+    width : 100%;
+    max-width: 1200px;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: white;
+}
+.title{
+    font-weight: 600;
+    font-size: 20px;
+    background-color: white;
+}
